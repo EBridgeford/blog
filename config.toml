@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog-st3mh.ondigitalocean.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
