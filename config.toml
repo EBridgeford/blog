@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anatole"
+
+[params]
+title = "Eric's blog"
+author = "Eric Bridgeford"
+profilePicture = "images/profile.jpg"
+mainSections = ["posts"]
+
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/eric-bridgeford-145340b4/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ebridgeford"
