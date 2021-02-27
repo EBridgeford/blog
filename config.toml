@@ -1,4 +1,4 @@
-baseURL = "https://ericblog-7av6q.ondigitalocean.app/"
+baseURL = "https://ebridgeford.github.io/"
 languageCode = "en-us"
 title = "A Silly Blog"
 theme = "anatole"
