@@ -1,4 +1,4 @@
-baseURL = "https://ebridgeford.github.io/"
+baseURL = "https://ebridgeford.github.io/blog/"
 languageCode = "en-us"
 title = "A Silly Blog"
 theme = "anatole"
