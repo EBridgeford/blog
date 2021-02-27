@@ -9,6 +9,7 @@ author = "Eric Bridgeford"
 profilePicture = "images/profile.jpg"
 mainSections = ["posts"]
 
+
 singleDateFormat = "Mon, Jan 2, 2006"
 indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
